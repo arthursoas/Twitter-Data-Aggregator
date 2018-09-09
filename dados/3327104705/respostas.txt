@@ -1,0 +1,2 @@
+seguidor,idResposta,dataResposta
+22387220,1035286364806246400,2018-8-30 22:01:18

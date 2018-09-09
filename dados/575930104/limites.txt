@@ -1,0 +1,4 @@
+tipoLimite,valor
+posts,1038445870310666241
+interacoes,1036647060341182464
+
