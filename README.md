@@ -5,6 +5,6 @@
 
 </br>
 
-<p>Este é um repositório com código para uso pessoal de seu criador para um caso muito específico</p>
+<p>Este é um repositório com código para uso pessoal de seu criador para um caso muito específico.</p>
 <p>Seu uso, distribuição e alteração são livres!</p>
-<p>Não há perspectivas para documentação desse código.</p>
+<p>Não há perspectivas para sua documentação.</p>
