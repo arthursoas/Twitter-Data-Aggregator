@@ -12,7 +12,7 @@ class Agregador (object):
 
     def agrega_dados(self):
         self.limpa_arquivo('acoes.txt')
-        robos = self.obter_diretorios()
+        robos = self.obtem_diretorios()
 
         self.acoes = open('acoes.txt', 'a')
 
@@ -133,7 +133,7 @@ class Agregador (object):
 
 
     @staticmethod
-    def obter_diretorios():
+    def obtem_diretorios():
         diretorios = os.listdir ('dados')
 
         result = []
